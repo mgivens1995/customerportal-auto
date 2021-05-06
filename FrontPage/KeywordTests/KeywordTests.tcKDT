@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="ReviewOpenClaims" key="{97E3BB44-7773-4185-A6F4-8BB6C071B027}" path="ReviewOpenClaims.tcKDTest" />
+		<child name="LogIn" key="{05419452-3F0E-4C9E-A00E-60CBB2DC511D}" path="LogIn.tcKDTest" />
+		<child name="CycleThroughTribes" key="{669BD171-598A-4045-A28D-BC2011E15A78}" path="CycleThroughTribes.tcKDTest" />
+		<child name="Master" key="{FA6235E7-EB38-4D1D-8651-342D5462369F}" path="Master.tcKDTest" />
+		<child name="ReviewOpenClaimDetails" key="{300E80A4-196B-49AE-B511-DC8E3886D808}" path="ReviewOpenClaimDetails.tcKDTest" />
+	</children>
+</Root>

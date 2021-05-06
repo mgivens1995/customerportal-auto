@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{F29F5DA6-3AF8-45DB-A4E5-93DEE4700434}">
+	<children>
+		<child name="FrontPage" key="{2457C15B-2A27-44B6-BF3D-9A5431B54092}" path="FrontPage\FrontPage.mds" />
+	</children>
+	<testItems key="{C019CA3C-D03A-45A2-9536-85746D04D8F0}">
+		<children>
+			<testItem key="{2457C15B-2A27-44B6-BF3D-9A5431B54092}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{2D0ADB77-1F85-488D-8615-E42873B20FD7}">
+		<data Version="4">
+			<Items>
+				<Variable Name="NoClaimExists" Type="Object" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Iteration" Type="Integer" Local="False" Descr="This keeps count of the number of loops">
+					<DefValue IntValue="0" />
+				</Variable>
+				<Variable Name="TribeEntries" Type="Object" Local="False" Descr="Number of Entries Displayed on Customer Portal">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{CFBADB7B-9AA3-4582-9F16-14AEEC75B952}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

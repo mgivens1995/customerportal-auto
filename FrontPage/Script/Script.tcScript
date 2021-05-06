@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="ReviewOpenClaimsSCRIPT" key="{AF0E9838-85A4-4E84-B305-F6C13E80F531}" path="ReviewOpenClaimsSCRIPT.js" />
+	</children>
+</Root>
