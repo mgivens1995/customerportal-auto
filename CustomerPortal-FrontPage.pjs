@@ -20,6 +20,93 @@
 				<Variable Name="TribeEntries" Type="Object" Local="False" Descr="Number of Entries Displayed on Customer Portal">
 					<DefValue />
 				</Variable>
+				<Variable Name="Claimant_Name" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Accident_Date" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Body_Part" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Nature_Of_Injury" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Cause_of_Injury" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Policy_Number" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Policy_Term" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Department" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Litigation" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Defense_Attorney" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Adjuster" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Supervisor" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Claim_Description" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Gross_Paid_Medical" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Gross_Paid_Indemnity" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Gross_Paid_Expense" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Medical_Reserve" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Indemnity_Reserve" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Expense_Reserve" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Recoveries" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Deductible_Recoveries" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Other_Recoveries" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Total_Net_Incurred" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Adjuster_Phone" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Adjuster_Email" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Supervisor_Phone" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Tribe" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="Status" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+				<Variable Name="AllOpenClaims" Type="String" Local="False">
+					<DefValue />
+				</Variable>
 			</Items>
 		</data>
 	</variables>

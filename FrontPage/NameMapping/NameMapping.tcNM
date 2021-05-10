@@ -2237,6 +2237,976 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageAmerindProvidesPeaceOfMindFo2" Key="{B68A7F59-D657-4DD5-A9DE-68EEA6659C94}">
+								<Image FileName="-1240630268" Left="0" Top="106" Right="3840" Bottom="2101" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://amerindportal.org/Home*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeClaimantDetail" Key="{1AE6F973-B6C3-45C0-B8A5-A465D32AD10E}">
+										<Image FileName="-1240630268" Left="1100" Top="397" Right="2741" Bottom="433" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h5[text()=&apos;Claimant Detail&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="h5" />
+											</Selector>
+											<Selector>
+												<Value Value="//h5" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell" Key="{4A13B817-C28B-4C8B-BE29-9A4204542E51}">
+										<Image FileName="-1240630268" Left="1107" Top="489" Right="1447" Bottom="562" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Status:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(1) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell2" Key="{2ED1A931-3BCC-495D-BD44-F8B622BDAD02}">
+										<Image FileName="-1240630268" Left="1107" Top="562" Right="1447" Bottom="633" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Claimant Name:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(2) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell3" Key="{327E726D-F7BD-4379-9F47-4C5A9F0F7CBB}">
+										<Image FileName="-1240630268" Left="1107" Top="633" Right="1447" Bottom="704" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Accident Date&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(3) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell4" Key="{9C4B305D-5618-4E65-BF3F-650F17533BA6}">
+										<Image FileName="-1240630268" Left="1107" Top="704" Right="1447" Bottom="775" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Body Part:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(4) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell5" Key="{D014520F-E47B-4663-A57E-F7A278953F01}">
+										<Image FileName="-1240630268" Left="1107" Top="775" Right="1447" Bottom="846" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Nature Of Injury:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(5) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[5]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell6" Key="{938D79CA-BBE7-495D-9FAA-F34DC96BCD6B}">
+										<Image FileName="-1240630268" Left="1107" Top="846" Right="1447" Bottom="917" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Cause of Injury:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(6) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell7" Key="{DE697D53-F879-4FF7-A609-5936B244A153}">
+										<Image FileName="-1240630268" Left="1107" Top="917" Right="1447" Bottom="988" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Policy:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(7) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[7]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell8" Key="{0D696606-8255-4FC7-80C8-9A1F72FF656C}">
+										<Image FileName="-1240630268" Left="1107" Top="988" Right="1447" Bottom="1059" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Policy Term:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(8) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell9" Key="{3B016072-9F38-4E25-BC72-14FAB24115DB}">
+										<Image FileName="-1240630268" Left="1107" Top="1059" Right="1447" Bottom="1130" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Department:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(9) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[9]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell10" Key="{A7523D28-AB4F-4841-9E51-3B52E6E983DC}">
+										<Image FileName="-1240630268" Left="1107" Top="1130" Right="1447" Bottom="1203" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Litigation:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(10) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[10]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell11" Key="{B83B0D38-418D-432E-8B17-A5745736502D}">
+										<Image FileName="-1240630268" Left="1107" Top="1203" Right="1447" Bottom="1274" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Defense Attorney:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(11) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[11]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell12" Key="{AA014F51-6EA9-4A2A-BF52-0AA0E27D9931}">
+										<Image FileName="-1240630268" Left="1107" Top="1274" Right="1447" Bottom="1347" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Adjuster:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(12) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[12]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell13" Key="{DE8DFAA4-A3FB-4D4D-B5F8-B6F0F2A976E8}">
+										<Image FileName="-1240630268" Left="1107" Top="1420" Right="1447" Bottom="1493" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Supervisor:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(14) &gt; .amerindLabel:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[14]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell14" Key="{C4634223-9BDA-483B-BC53-0828F305788F}">
+										<Image FileName="-1240630268" Left="1107" Top="1493" Right="2733" Bottom="1564" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Claim Description:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(15) &gt; .amerindLabel" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[15]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell15" Key="{947386E2-DCB3-484F-8E92-C23E4FECB92E}">
+										<Image FileName="-1240630268" Left="2065" Top="489" Right="2457" Bottom="562" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Gross Paid Medical:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(1) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell16" Key="{6DE58854-9D8F-4368-908C-8995A5668AF4}">
+										<Image FileName="-1240630268" Left="2065" Top="562" Right="2457" Bottom="633" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Gross Paid Indemnity:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(2) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell17" Key="{DDD11458-D73C-4641-B59C-355A5E08D5FB}">
+										<Image FileName="-1240630268" Left="2065" Top="633" Right="2457" Bottom="704" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Gross Paid Expense:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(3) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell18" Key="{5FA36FF4-1629-4CB8-8220-F4D797B426B9}">
+										<Image FileName="-1240630268" Left="2065" Top="704" Right="2457" Bottom="775" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Medical Reserve:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(4) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell19" Key="{7ECD2135-1F1A-4C75-92EC-3D6308A563A0}">
+										<Image FileName="-1240630268" Left="2065" Top="775" Right="2457" Bottom="846" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Indemnity Reserve:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(5) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[5]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell20" Key="{ACAA9ABA-FBDC-4AC9-AE56-D118B6AABDF3}">
+										<Image FileName="-1240630268" Left="2065" Top="846" Right="2457" Bottom="917" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Expense Reserve:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(6) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell21" Key="{AA2BFC49-C84C-4C50-8938-95917C9E8E13}">
+										<Image FileName="-1240630268" Left="2065" Top="917" Right="2457" Bottom="988" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Recoveries:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(7) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[7]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell22" Key="{A59370FA-46C0-404F-B970-ED89D2C528DD}">
+										<Image FileName="-1240630268" Left="2065" Top="988" Right="2457" Bottom="1059" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Deductible Recoveries:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(8) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell23" Key="{3DEA1ABB-8ABE-4ADD-B0EF-DAF59D51D7BF}">
+										<Image FileName="-1240630268" Left="2065" Top="1059" Right="2457" Bottom="1130" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Other Recoveries:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(9) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[9]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell24" Key="{43DDD79E-DD28-4AAC-9586-5A1D20F4D86A}">
+										<Image FileName="-1240630268" Left="2065" Top="1130" Right="2457" Bottom="1203" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Total Net Incurred:&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(10) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[10]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell25" Key="{F9204142-1CB2-4D62-BE5B-35CF4A321E51}">
+										<Image FileName="-1240630268" Left="2065" Top="1274" Right="2457" Bottom="1347" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Phone:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(12) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[12]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell26" Key="{7FBD4280-AA52-4AED-99F6-51F8BDB7BC2D}">
+										<Image FileName="-1240630268" Left="2065" Top="1347" Right="2457" Bottom="1420" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Email:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(13) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[13]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell27" Key="{45333C41-31E6-4239-A03C-CE964A48A51A}">
+										<Image FileName="-1240630268" Left="2065" Top="1420" Right="2457" Bottom="1493" />
+										<TypeInfo Item0="{5994F5E3-13C2-4A0C-B6F8-852AC4754D74}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(14) &gt; .amerindLabel:nth-child(3)" />
+											</Selector>
+											<Selector>
+												<Value Value="(//td[contains(.,&apos;Phone:&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[14]/td[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell28" Key="{5CAFEFCB-451E-4A85-9831-C8496D55580D}">
+										<Image FileName="1432200001" Left="1458" Top="500" Right="2076" Bottom="573" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Open&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(1) &gt; td:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell29" Key="{999F1146-B4A2-413E-BA38-C96332DF43FF}">
+										<Image FileName="-1883903465" Left="1458" Top="573" Right="2076" Bottom="644" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;Lujan,Evelyn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(2) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell30" Key="{F9BC787A-513C-4505-AA45-0B27E5DA0D73}">
+										<Image FileName="-31499971" Left="1458" Top="644" Right="2076" Bottom="715" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[contains(text(), &apos;12/13/2019&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(3) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell31" Key="{C67ED1E6-17B6-41D7-986F-506E8BA7D57E}">
+										<Image FileName="247270703" Left="1458" Top="715" Right="2076" Bottom="786" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;VI. Multiple Body Parts&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(4) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell32" Key="{4C8E5AA9-80BF-47BE-9580-F113D5F9ADB2}">
+										<Image FileName="247270703" Left="1458" Top="786" Right="2076" Bottom="857" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;49. Sprain or Tear&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(5) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[5]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell33" Key="{23BD06E2-BE77-4A7C-A8FA-8D5A7F13EDEB}">
+										<Image FileName="247270703" Left="1458" Top="857" Right="2076" Bottom="928" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;55. Holding or Carrying&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(6) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell34" Key="{C6B6FDB5-0BFE-4634-AB50-1DB4571A9696}">
+										<Image FileName="-732609415" Left="1458" Top="928" Right="2076" Bottom="999" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;WC00000144&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(7) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[7]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell35" Key="{0B9FD4BC-79A4-4420-AE93-1D7E6635AE5E}">
+										<Image FileName="247270703" Left="1458" Top="999" Right="2076" Bottom="1070" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(8) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell36" Key="{F512D549-8628-4FF4-A72F-8FEC50E05FB3}">
+										<Image FileName="-1883903465" Left="1458" Top="1141" Right="2076" Bottom="1214" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;Information not provided at this time.&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(10) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[10]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell37" Key="{AA8100E3-3BA3-45DE-BE85-41D9D15DE967}">
+										<Image FileName="1432200001" Left="1458" Top="1214" Right="2744" Bottom="1285" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(11) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="(//td[contains(.,&apos;Information not provided at this time.&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[11]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell38" Key="{E7FC1DB8-A2CA-462D-9737-62067106922E}">
+										<Image FileName="1432200001" Left="1458" Top="1285" Right="2076" Bottom="1358" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(12) &gt; td:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[12]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell39" Key="{610487CF-6A41-4C3E-9262-7A4583D56D9A}">
+										<Image FileName="-1883903465" Left="1458" Top="1431" Right="2076" Bottom="1504" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(14) &gt; td:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[14]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell40" Key="{56668780-2489-47C2-88FC-B88FA7FC34DF}">
+										<Image FileName="1432200001" Left="1118" Top="1575" Right="2744" Bottom="1648" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;EE was carrying bucket and hurt her knee and wrist&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(16) &gt; td" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[16]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell41" Key="{90F7C200-B395-467F-A880-7624DA05BC68}">
+										<Image FileName="1432200001" Left="2468" Top="500" Right="2744" Bottom="573" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(1) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell42" Key="{ED0AFC31-62FF-42D4-B15B-C6C49A17AEB4}">
+										<Image FileName="-1883903465" Left="2468" Top="573" Right="2744" Bottom="644" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(2) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell43" Key="{D34E743C-F95C-4422-87F4-956F6F88FA68}">
+										<Image FileName="1432200001" Left="2468" Top="715" Right="2744" Bottom="786" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(4) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell44" Key="{B6DB9CF0-2098-4482-88D6-180432777AA0}">
+										<Image FileName="1432200001" Left="2468" Top="786" Right="2744" Bottom="857" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(5) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[5]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell45" Key="{8F1249D8-3BE2-4368-9DB8-99964F71B3B8}">
+										<Image FileName="1432200001" Left="2468" Top="857" Right="2744" Bottom="928" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(6) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell46" Key="{1A5A0D11-72AF-456D-887C-57D32FCF83B6}">
+										<Image FileName="1432200001" Left="2468" Top="928" Right="2744" Bottom="999" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(7) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[7]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell47" Key="{182B5845-F695-450A-B390-665E0A51759A}">
+										<Image FileName="1432200001" Left="2468" Top="999" Right="2744" Bottom="1070" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(8) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell48" Key="{2509CEB5-EF69-4199-9929-5B779A423C4F}">
+										<Image FileName="1432200001" Left="2468" Top="1070" Right="2744" Bottom="1141" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(9) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[9]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell49" Key="{8E028431-616F-4A65-97DF-FCA3EE95F020}">
+										<Image FileName="1432200001" Left="2468" Top="1141" Right="2744" Bottom="1214" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;$0.00&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(10) &gt; .moneyDisplay" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[10]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell50" Key="{5D9A57B9-261D-43D2-9BF7-5C68F0599853}">
+										<Image FileName="1432200001" Left="2468" Top="1285" Right="2744" Bottom="1358" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;800-352-3496&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(12) &gt; td:nth-child(4)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[12]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell51" Key="{7D83FD23-0915-4E91-B1BA-22B18543AC37}">
+										<Image FileName="1432200001" Left="2468" Top="1358" Right="2744" Bottom="1431" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(13) &gt; td:nth-child(4)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[13]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell52" Key="{D62C7C05-A6DF-470C-BCEA-01AF0FA583DE}">
+										<Image FileName="1432200001" Left="2468" Top="1431" Right="2744" Bottom="1504" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="tr:nth-child(14) &gt; td:nth-child(4)" />
+											</Selector>
+											<Selector>
+												<Value Value="(//td[contains(.,&apos;800-352-3496&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[14]/td[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectSelectAccount" Key="{643C6841-DF28-4DCE-AF55-7DF9B681C569}">
+										<Image FileName="-762445820" Left="2310" Top="269" Right="2760" Bottom="316" />
+										<TypeInfo Item0="{2ABFFC60-3173-4E07-BB52-2C7693C9930D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#AccountSelector" />
+											</Selector>
+											<Selector>
+												<Value Value="*[name=&apos;AccountSelector&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//select[@id=(//label[text()=&apos;Select Account:&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//select[@id=&apos;AccountSelector&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//select" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell53" Key="{D8F4C98D-7CF7-4118-A3B9-4F9416119994}">
+										<Image FileName="-868336681" Left="1422" Top="1078" Right="1994" Bottom="1149" />
+										<TypeInfo Item0="{2CCB87BE-46A4-4B77-8CFF-75DEFE197F4D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[text()=&apos;ABE - Engineering Department&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="tr:nth-child(9) &gt; .amerindLabel:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[9]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonExportToExcel" Key="{67566770-2615-435C-B7B1-431E98C41EA2}">
+										<Image FileName="494159741" Left="1095" Top="526" Right="1264" Bottom="572" />
+										<TypeInfo Item0="{46317125-D159-43CA-9AAF-FDEBBCDE78FD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Export to Excel&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value=".dt-buttons &gt; [aria-controls=&apos;OpenCLaimList&apos;]:nth-child(1)" />
+											</Selector>
+											<Selector>
+												<Value Value="(//button[@type=&apos;button&apos;])[3]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;OpenCLaimList_wrapper&apos;]/div/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonExportToPdf" Key="{FFEE88CD-D572-4BC1-B077-44AA47A0C0D2}">
+										<Image FileName="537497827" Left="1277" Top="526" Right="1436" Bottom="572" />
+										<TypeInfo Item0="{46317125-D159-43CA-9AAF-FDEBBCDE78FD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Export to .pdf&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value=".dt-buttons &gt; [aria-controls=&apos;OpenCLaimList&apos;]:nth-child(2)" />
+											</Selector>
+											<Selector>
+												<Value Value="(//button[@type=&apos;button&apos;])[4]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;OpenCLaimList_wrapper&apos;]/div/button[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode11" Key="{560B27FA-D75E-4F69-B1B7-A4C2D5C7AB73}">
+										<Image FileName="-1277603315" Left="1280" Top="492" Right="1322" Bottom="519" />
+										<TypeInfo Item0="{9D8859A2-1291-400C-9400-C9C806A95570}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[text()=&apos;11&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value=".badge" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="searchboxSearch" Key="{A3F88CDC-D64E-447D-88DC-C88C87D03FBC}">
+										<Image FileName="-1791778587" Left="2432" Top="526" Right="2721" Bottom="580" />
+										<TypeInfo Item0="{F57716A7-AFCB-4AA7-9E07-5662A45A5DF3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="[type=&apos;search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="input[type=&apos;search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;OpenCLaimList_filter&apos;]/label/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//label/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="nav" Key="{314989AD-CDED-4D83-AE52-5B7D5F9E0DDD}">
+										<Image FileName="-1034686067" Left="1054" Top="316" Right="2761" Bottom="387" />
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;Search Claims&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value=".navbar-inverse" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldset" Key="{4974CC04-7FAE-483C-8722-94EF5306B9A4}">
+										<Image FileName="-1034686067" Left="2179" Top="328" Right="2750" Bottom="375" />
+										<Selectors>
+											<Selector>
+												<Value Value=".form-group" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;appNavBar&apos;]/div/form/fieldset" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxSearchstring" Key="{2AD4B8EE-17BA-4681-8A5E-E952AE9DCDEC}">
+										<Image FileName="-1034686067" Left="2179" Top="328" Right="2703" Bottom="375" />
+										<TypeInfo Item0="{F57716A7-AFCB-4AA7-9E07-5662A45A5DF3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#searchString" />
+											</Selector>
+											<Selector>
+												<Value Value="*[name=&apos;searchString&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="input[type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@id=&apos;searchString&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;appNavBar&apos;]/div/form/fieldset/div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSearchbutton" Key="{6A7ED7D8-DD0D-4804-9296-9B8F4480EAE0}">
+										<Image FileName="-2141549887" Left="2701" Top="328" Right="2749" Bottom="375" />
+										<TypeInfo Item0="{46317125-D159-43CA-9AAF-FDEBBCDE78FD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#searchButton" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@id=&apos;searchButton&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;appNavBar&apos;]/div/form/fieldset/div/span/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//span/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{A10B2E6D-A073-43FA-A1F2-8788DCE904BD}">
+								<Image FileName="-1034686067" Left="-11" Top="-11" Right="3851" Bottom="2111" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -2401,6 +3371,74 @@
 				<Child Name="cell3" Owner="{B8525631-280E-418E-AA85-02C9FCF5A469}" />
 				<Child Name="cell4" Owner="{CDABE18D-791D-4958-A78D-A4E3C3858A1A}" />
 			</Child>
+			<Child Name="pageAmerindProvidesPeaceOfMindFo2" Owner="{B68A7F59-D657-4DD5-A9DE-68EEA6659C94}">
+				<Child Name="textnodeClaimantDetail" Owner="{1AE6F973-B6C3-45C0-B8A5-A465D32AD10E}" />
+				<Child Name="cell" Owner="{4A13B817-C28B-4C8B-BE29-9A4204542E51}" />
+				<Child Name="cell2" Owner="{2ED1A931-3BCC-495D-BD44-F8B622BDAD02}" />
+				<Child Name="cell3" Owner="{327E726D-F7BD-4379-9F47-4C5A9F0F7CBB}" />
+				<Child Name="cell4" Owner="{9C4B305D-5618-4E65-BF3F-650F17533BA6}" />
+				<Child Name="cell5" Owner="{D014520F-E47B-4663-A57E-F7A278953F01}" />
+				<Child Name="cell6" Owner="{938D79CA-BBE7-495D-9FAA-F34DC96BCD6B}" />
+				<Child Name="cell7" Owner="{DE697D53-F879-4FF7-A609-5936B244A153}" />
+				<Child Name="cell8" Owner="{0D696606-8255-4FC7-80C8-9A1F72FF656C}" />
+				<Child Name="cell9" Owner="{3B016072-9F38-4E25-BC72-14FAB24115DB}" />
+				<Child Name="cell10" Owner="{A7523D28-AB4F-4841-9E51-3B52E6E983DC}" />
+				<Child Name="cell11" Owner="{B83B0D38-418D-432E-8B17-A5745736502D}" />
+				<Child Name="cell12" Owner="{AA014F51-6EA9-4A2A-BF52-0AA0E27D9931}" />
+				<Child Name="cell13" Owner="{DE8DFAA4-A3FB-4D4D-B5F8-B6F0F2A976E8}" />
+				<Child Name="cell14" Owner="{C4634223-9BDA-483B-BC53-0828F305788F}" />
+				<Child Name="cell15" Owner="{947386E2-DCB3-484F-8E92-C23E4FECB92E}" />
+				<Child Name="cell16" Owner="{6DE58854-9D8F-4368-908C-8995A5668AF4}" />
+				<Child Name="cell17" Owner="{DDD11458-D73C-4641-B59C-355A5E08D5FB}" />
+				<Child Name="cell18" Owner="{5FA36FF4-1629-4CB8-8220-F4D797B426B9}" />
+				<Child Name="cell19" Owner="{7ECD2135-1F1A-4C75-92EC-3D6308A563A0}" />
+				<Child Name="cell20" Owner="{ACAA9ABA-FBDC-4AC9-AE56-D118B6AABDF3}" />
+				<Child Name="cell21" Owner="{AA2BFC49-C84C-4C50-8938-95917C9E8E13}" />
+				<Child Name="cell22" Owner="{A59370FA-46C0-404F-B970-ED89D2C528DD}" />
+				<Child Name="cell23" Owner="{3DEA1ABB-8ABE-4ADD-B0EF-DAF59D51D7BF}" />
+				<Child Name="cell24" Owner="{43DDD79E-DD28-4AAC-9586-5A1D20F4D86A}" />
+				<Child Name="cell25" Owner="{F9204142-1CB2-4D62-BE5B-35CF4A321E51}" />
+				<Child Name="cell26" Owner="{7FBD4280-AA52-4AED-99F6-51F8BDB7BC2D}" />
+				<Child Name="cell27" Owner="{45333C41-31E6-4239-A03C-CE964A48A51A}" />
+				<Child Name="cell28" Owner="{5CAFEFCB-451E-4A85-9831-C8496D55580D}" />
+				<Child Name="cell29" Owner="{999F1146-B4A2-413E-BA38-C96332DF43FF}" />
+				<Child Name="cell30" Owner="{F9BC787A-513C-4505-AA45-0B27E5DA0D73}" />
+				<Child Name="cell31" Owner="{C67ED1E6-17B6-41D7-986F-506E8BA7D57E}" />
+				<Child Name="cell32" Owner="{4C8E5AA9-80BF-47BE-9580-F113D5F9ADB2}" />
+				<Child Name="cell33" Owner="{23BD06E2-BE77-4A7C-A8FA-8D5A7F13EDEB}" />
+				<Child Name="cell34" Owner="{C6B6FDB5-0BFE-4634-AB50-1DB4571A9696}" />
+				<Child Name="cell35" Owner="{0B9FD4BC-79A4-4420-AE93-1D7E6635AE5E}" />
+				<Child Name="cell36" Owner="{F512D549-8628-4FF4-A72F-8FEC50E05FB3}" />
+				<Child Name="cell37" Owner="{AA8100E3-3BA3-45DE-BE85-41D9D15DE967}" />
+				<Child Name="cell38" Owner="{E7FC1DB8-A2CA-462D-9737-62067106922E}" />
+				<Child Name="cell39" Owner="{610487CF-6A41-4C3E-9262-7A4583D56D9A}" />
+				<Child Name="cell40" Owner="{56668780-2489-47C2-88FC-B88FA7FC34DF}" />
+				<Child Name="cell41" Owner="{90F7C200-B395-467F-A880-7624DA05BC68}" />
+				<Child Name="cell42" Owner="{ED0AFC31-62FF-42D4-B15B-C6C49A17AEB4}" />
+				<Child Name="cell43" Owner="{D34E743C-F95C-4422-87F4-956F6F88FA68}" />
+				<Child Name="cell44" Owner="{B6DB9CF0-2098-4482-88D6-180432777AA0}" />
+				<Child Name="cell45" Owner="{8F1249D8-3BE2-4368-9DB8-99964F71B3B8}" />
+				<Child Name="cell46" Owner="{1A5A0D11-72AF-456D-887C-57D32FCF83B6}" />
+				<Child Name="cell47" Owner="{182B5845-F695-450A-B390-665E0A51759A}" />
+				<Child Name="cell48" Owner="{2509CEB5-EF69-4199-9929-5B779A423C4F}" />
+				<Child Name="cell49" Owner="{8E028431-616F-4A65-97DF-FCA3EE95F020}" />
+				<Child Name="cell50" Owner="{5D9A57B9-261D-43D2-9BF7-5C68F0599853}" />
+				<Child Name="cell51" Owner="{7D83FD23-0915-4E91-B1BA-22B18543AC37}" />
+				<Child Name="cell52" Owner="{D62C7C05-A6DF-470C-BCEA-01AF0FA583DE}" />
+				<Child Name="selectSelectAccount" Owner="{643C6841-DF28-4DCE-AF55-7DF9B681C569}" />
+				<Child Name="cell53" Owner="{D8F4C98D-7CF7-4118-A3B9-4F9416119994}" />
+				<Child Name="buttonExportToExcel" Owner="{67566770-2615-435C-B7B1-431E98C41EA2}" />
+				<Child Name="buttonExportToPdf" Owner="{FFEE88CD-D572-4BC1-B077-44AA47A0C0D2}" />
+				<Child Name="textnode11" Owner="{560B27FA-D75E-4F69-B1B7-A4C2D5C7AB73}" />
+				<Child Name="searchboxSearch" Owner="{A3F88CDC-D64E-447D-88DC-C88C87D03FBC}" />
+				<Child Name="nav" Owner="{314989AD-CDED-4D83-AE52-5B7D5F9E0DDD}">
+					<Child Name="fieldset" Owner="{4974CC04-7FAE-483C-8722-94EF5306B9A4}">
+						<Child Name="textboxSearchstring" Owner="{2AD4B8EE-17BA-4681-8A5E-E952AE9DCDEC}" />
+						<Child Name="buttonSearchbutton" Owner="{6A7ED7D8-DD0D-4804-9296-9B8F4480EAE0}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{A10B2E6D-A073-43FA-A1F2-8788DCE904BD}" />
 		</Child>
 	</LogicalNodes>
 </Root>

@@ -6,5 +6,11 @@
 		<child name="CycleThroughTribes" key="{669BD171-598A-4045-A28D-BC2011E15A78}" path="CycleThroughTribes.tcKDTest" />
 		<child name="Master" key="{FA6235E7-EB38-4D1D-8651-342D5462369F}" path="Master.tcKDTest" />
 		<child name="ReviewOpenClaimDetails" key="{300E80A4-196B-49AE-B511-DC8E3886D808}" path="ReviewOpenClaimDetails.tcKDTest" />
+		<child name="PrintChart" key="{212B55F0-B3DC-416D-86EC-4C31CBF0EF08}" path="PrintChart.tcKDTest" />
+		<child name="ExportToExcel" key="{AA91EB61-1CE5-47D0-92A2-0F2DEA548DE0}" path="ExportToExcel.tcKDTest" />
+		<child name="ExportToPDF" key="{3EE04008-A3B0-4320-A2C0-B47391D50920}" path="ExportToPDF.tcKDTest" />
+		<child name="AllOpenClaimsCount" key="{9E3B6564-90E1-4708-85B6-B323A47A0DE0}" path="AllOpenClaimsCount.tcKDTest" />
+		<child name="SearchField_BetweenBlueBars" key="{D352DD3C-4078-4437-999E-8630F816019A}" path="SearchField_BetweenBlueBars.tcKDTest" />
+		<child name="SearchField_BrownBars" key="{94F1CB05-6E1B-4802-8E6C-917408C0ED1A}" path="SearchField_BrownBars.tcKDTest" />
 	</children>
 </Root>

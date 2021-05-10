@@ -8,12 +8,17 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{C727070F-53A4-40C9-9AF8-5EDEEEA3F8BD}" version="14">
 		<children>
-			<testItem name="LogIn" key="{86470B59-E134-4F5C-81F7-FA989BE54E21}" group="False" parallel="False" enabled="True" testMoniker="KDT\{05419452-3F0E-4C9E-A00E-60CBB2DC511D}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="LogIn" key="{86470B59-E134-4F5C-81F7-FA989BE54E21}" group="False" parallel="False" enabled="True" testMoniker="KDT\{05419452-3F0E-4C9E-A00E-60CBB2DC511D}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 				<testParameters />
 				<environments testedURL="" />
 				<children />
 			</testItem>
-			<testItem name="CycleThroughTribes" key="{0E479C24-7FD7-4D38-A9FC-103FD955D385}" group="False" parallel="False" enabled="True" testMoniker="KDT\{669BD171-598A-4045-A28D-BC2011E15A78}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="CycleThroughTribes" key="{0E479C24-7FD7-4D38-A9FC-103FD955D385}" group="False" parallel="False" enabled="False" testMoniker="KDT\{669BD171-598A-4045-A28D-BC2011E15A78}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments testedURL="" />
+				<children />
+			</testItem>
+			<testItem name="ReviewOpenClaimDetails" key="{8C654B5C-92A1-46A4-ABF2-56D563EDFC69}" group="False" parallel="False" enabled="True" testMoniker="KDT\{300E80A4-196B-49AE-B511-DC8E3886D808}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments testedURL="" />
 				<children />
